@@ -1,0 +1,2 @@
+# javascriptcodes
+codes for javascript
